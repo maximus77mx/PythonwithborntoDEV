@@ -1,0 +1,15 @@
+
+
+print("----------------------------------")
+print("MustLean Shop VAT INVOICE")
+print("----------------------------------")
+print("Waffel     X 1  :  10 THB")
+print("Banana     X 1  :  12 THB")
+print("Almond MilkX 1  :  40 THB")
+print("Almond     X 1  :  40 THB")
+print("Cake v     X 1  :  55 THB")
+print("Choco      X 1  :  30 THB")
+print("Yam        X 1  :  50 THB")
+print("Soy Milk   X 1  :  32 THB")
+print("----------------------------------")
+print("Total          :  free THB")
